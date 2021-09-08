@@ -4,3 +4,7 @@
 /detect-latest-release
 /go-get-release
 /coverage.out
+vendor
+.idea
+out
+
